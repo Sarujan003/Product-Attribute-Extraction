@@ -4,7 +4,7 @@ This project demonstrates how to fine-tune a Large Language Model (LLM) for a Na
 
 🚀 Key Features
 ✅ Efficient Fine-Tuning
-Uses Unsloth and QLoRA to fine-tune the mistralai/Mistral-7B-Instruct-v0.2 model on consumer-grade GPUs (e.g., Google Colab T4).
+Uses Unsloth and QLoRA to fine-tune the mistralai/Mistral-7B-Instruct-v0.2 model on GPUs (Google Colab T4).
 
 🧪 Synthetic Data Generation
 Includes scripts to generate and augment datasets with synthetic product descriptions, enhancing robustness and generalization.
