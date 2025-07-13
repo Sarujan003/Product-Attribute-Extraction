@@ -23,7 +23,8 @@ Output (Flat JSON)
 {
   "product": "Pixel 8 Pro",
   "color": "champagne gold",
-  "material": "carbon fiber",
+  "mate<img width="1352" height="557" alt="Output" src="https://github.com/user-attachments/assets/cb557195-c5d8-47ba-b569-2bc761614160" />
+rial": "carbon fiber",
   "weight": "2.5 ounces",
   "origin": "Germany"
 }
